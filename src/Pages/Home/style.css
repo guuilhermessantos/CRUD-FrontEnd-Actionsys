@@ -32,6 +32,7 @@
   align-items: center;
   justify-content: flex-start;
   padding: 0px 20px;
+  height: 540px;
 }
 
 .btn-adicionar {
@@ -193,7 +194,8 @@
 }
 footer {
   text-align: center;
-  padding: 4rem 0 2rem;
+  padding: 2rem 0 1rem;
   color: var(--dark-blue);
   opacity: 0.6;
+  background-color: rgb(170, 168, 168);
 }
